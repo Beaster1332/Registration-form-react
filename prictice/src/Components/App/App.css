@@ -1,0 +1,11 @@
+* {
+    font-family: 'montserrat', sans-serif;
+}
+
+.containerCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

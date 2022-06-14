@@ -1,0 +1,20 @@
+.authBtn {
+    width: 110px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all ease 0.5s;
+}
+
+.authBtn:hover {
+    transform: scale(1.1);
+}
+
+.authBtn:active {
+    transform: scale(1.05);
+}
